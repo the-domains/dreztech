@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[dreztech]]></title>
         <description><![CDATA[dreztech]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/dreztech/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Feb 2016 18:36:44 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 24 Feb 2016 18:36:45 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/dreztech/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7990c1e4-7af9-4159-ad84-1ce168df5ee1.jpg">]]></description>
-            <link>undefined1d01bc79-aea0-4958-a360-f39d8a6d8c79/index.html</link>
+            <link>https://thegrid.ai/dreztech/1d01bc79-aea0-4958-a360-f39d8a6d8c79/index.html</link>
             <guid isPermaLink="false">1d01bc79-aea0-4958-a360-f39d8a6d8c79</guid>
-            <pubDate>Wed, 24 Feb 2016 18:36:09 GMT</pubDate>
+            <pubDate>Wed, 24 Feb 2016 18:35:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
